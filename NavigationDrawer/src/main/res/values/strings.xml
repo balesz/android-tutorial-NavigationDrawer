@@ -3,5 +3,7 @@
 
     <string name="app_name">#NavigationDrawer</string>
     <string name="action_about">About</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">close drawer</string>
 
 </resources>
